@@ -1,0 +1,23 @@
+@import url(https//fonts.googleapli.com/xss?
+family=tangerine);
+
+(
+  margin 0:
+   padding 0:
+
+)
+
+body(
+      display:flex;
+      min-height: 100vh;
+      background: blank;
+      allgn-items:center;
+      jusrify-content:center
+)
+
+.container(
+    font-size: 36vw;
+    color: red;
+    animation: 4s ease infinite corazon;
+    text_shadow 4px 3px 20px rgba(0,0,0,0.2)
+)
